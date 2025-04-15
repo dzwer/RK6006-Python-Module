@@ -31,3 +31,5 @@ This module allows to read and control the following options:
  - Switch ON/OFF the Buzzer and read the state.
 
 For usage see the example file.
+
+Tested with Python 3.11.
